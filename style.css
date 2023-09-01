@@ -1,0 +1,19 @@
+body{
+    color: teal;
+    background-color: rgb(113, 36, 134);
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px dashed thistle;
+   width: 350px;
+   height: 350px;
+}
+
+#name_of_Family_Member, #result_object_name, #result_object_accuracy {
+    color: rgb(122, 41, 197);
+}
